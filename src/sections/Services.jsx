@@ -1,4 +1,3 @@
-import { support } from '../assets/icons'
 import ServiceCard from '../components/ServiceCard'
 import { services } from '../constants'
 
